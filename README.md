@@ -10,7 +10,7 @@ This python coded project will create a static webpage, which displays a listing
 
 ## Demo
 
-Click here to view the [demo](https://github.com/narmadakrishnasamy/udacity_movie_trailer/PixarAnimation.html).
+Click here to view the [demo](http://htmlpreview.github.io/?https://github.com/narmadakrishnasamy/udacity_movie_Trailer/blob/master/PixarAnimation.html).
 
 ## Required Libraries
 
